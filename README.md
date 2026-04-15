@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: https://github.com/krivchenko74/frontendmenthor_qr
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor's solution page](https://www.frontendmentor.io/solutions/qr-code-components-built-with-semantic-html-and-css-flexbox-and-grid-2g__F1zhez)
+- Live Site URL: [GitHub Pages](https://krivchenko74.github.io/frontendmenthor_qr/)
 
 ## My process
 
